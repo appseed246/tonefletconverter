@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">tonefletconverter</string>
+
+    <!--  MainFragment  -->
+    <string name="button_name_on_question">答えを見る</string>
+    <string name="button_name_on_answer">次の問題</string>
 </resources>
