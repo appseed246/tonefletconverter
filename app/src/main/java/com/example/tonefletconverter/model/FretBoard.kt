@@ -19,6 +19,6 @@ object FretBoard {
      * @param fret フレット番号
      */
     fun getNoteIdByPosition(string: StringId, fret: Fret): NoteId {
-        return NoteId(board[string.value][fret.number])
+        return NoteId(board[string.number][fret.number])
     }
 }
