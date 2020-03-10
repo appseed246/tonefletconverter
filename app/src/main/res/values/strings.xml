@@ -4,4 +4,17 @@
     <!--  MainFragment  -->
     <string name="button_name_on_question">答えを見る</string>
     <string name="button_name_on_answer">次の問題</string>
+
+    <string name="button_c">C</string>
+    <string name="button_csharp_dflat">C#\nD♭</string>
+    <string name="button_d">D</string>
+    <string name="button_dsharp_eflat">D#\nE♭</string>
+    <string name="button_e">E</string>
+    <string name="button_f">F</string>
+    <string name="button_fsharp_gflat">F#\nG♭</string>
+    <string name="button_g">G</string>
+    <string name="button_gsharp_aflat">G#\nA♭</string>
+    <string name="button_a">A</string>
+    <string name="button_asharp_bflat">A#\nB♭</string>
+    <string name="button_b">B</string>
 </resources>
